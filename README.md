@@ -31,3 +31,5 @@ Vanilla JavaScript (Game Logic, DOM Manipulation & Timers)
 
 
 <Madush-Dev/> Created with ❤️ for the Sinhala & Tamil New Year!
+
+//Stay tuned!!!
